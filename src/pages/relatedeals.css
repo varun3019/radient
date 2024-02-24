@@ -1,0 +1,93 @@
+
+.relatedeals .relared {
+  position: relative;
+  color: #2c384a;
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 24px;
+}
+.webcards {
+  position: relative;
+  top: 40px;
+}
+
+.webcards .off {
+  position: relative;
+  top: 26px;
+  right: 260px;
+  background-color: #07468674;
+  color: white;
+  margin-right: 10px;
+}
+
+* {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px;
+}
+.webcards .limited {
+  position: relative;
+  top: 26px;
+  right: 230px;
+  background-color: #07468674;
+  color: white;
+}
+
+.webuilder {
+  position: relative;
+  top: 20px;
+  color: #626e79;
+  left: 70px;
+  font-weight: 700;
+  font-size: 16px;
+}
+
+.com {
+  position: relative;
+  color: #626e79;
+  top: 30px;
+}
+
+.pr1 {
+  position: relative;
+  color: #626e79;
+  top: 30px;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+}
+
+.pr2 {
+  position: relative;
+  color: #9FA9B3;
+  top: 4px;
+  left: 90px;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+.view
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1b88f4;
+  width:
+  292px;
+  height: 48px;
+  border-radius: 12px;
+}
+
+
+.tw
+{
+  position: relative;
+  line-height: 
+  20px;
+  bottom:17px;
+  left: 150px;
+  font-size: 13px;
+  color: #EF4C5D;
+}

@@ -1,0 +1,30 @@
+.sign p {
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 44px;
+  position: relative;
+  color: #5c6874;
+  left: 530px;
+  top: 80px;
+}
+
+.input {
+  position: relative;
+  left: 1500px;
+  top: 40px;
+  border-radius: 12px, 0px, 0px, 12px;
+  width: 348px;
+  height: 52px;
+}
+
+.sign button {
+  position: relative;
+  left: 1500px;
+  top: 40px;
+  border-radius:0px 12px 12px 0px;
+  width: 97px;
+  height: 52px;
+  background-color: #1B88F4;
+  color: white;
+}

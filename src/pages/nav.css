@@ -1,0 +1,79 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.nav {
+  background-color: #212731;
+  width: 10000px;
+  height: 64px;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+}
+
+.search .searchicon {
+  font-size: 25px;
+  top: 11px;
+  left: 510px;
+  position: relative;
+  z-index: 999;
+}
+
+
+.searchbar {
+  top: 14px;
+  border-radius: 7px;
+  height: 37px;
+  width: 258px;
+  position: relative;
+  left: 480px;
+  background-color: white;
+  outline: none;
+}
+
+.categories {
+  font-family: "Inter", sans-serif;
+  position: relative;
+  color: #d1d6da;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 20px;
+  left: 600px;
+  top:10px;
+}
+
+.WebsiteBuilders {
+    font-family: "Inter", sans-serif;
+    position: relative;
+    color: #d1d6da;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    left: 650px;
+    top:10px;
+  }
+
+.Todaydeals
+{
+    font-family: "Inter", sans-serif;
+    position: relative;
+    color: #d1d6da;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    left: 700px;
+    top:10px;
+}
+
+
+@media only screen and (max-width:400px) {
+  .categories,.WebsiteBuilders,.Todaydeals
+  {
+    font-size: 30px;
+  }
+
+}

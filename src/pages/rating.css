@@ -1,0 +1,228 @@
+*
+{
+  font-family: "Inter", sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 24px; 
+}
+
+.bestweb4 {
+    position: relative;
+    top: 180px;
+    left: 510px;
+  }
+  
+  .builder1 {
+    position: relative;
+    top: 20px;
+    left: 100px;
+    color: #626e79;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .wixpro {
+    position: relative;
+    left: 280px;
+    bottom: 200px;
+    color: #626e79;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .Mainhighlights {
+    position: relative;
+    left: 280px;
+    bottom: 190px;
+    color: #2c384a;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  .what {
+    left: 280px;
+    position: relative;
+    bottom: 190px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #4b5665;
+  }
+  
+  .bestweb4 .ratings {
+    position: relative;
+    bottom: 390px;
+    left: 800px;
+    width: 5%;
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    background-color: #f3f9ff;
+  }
+  
+  .bestweb4 .ratings .p1 {
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 24px;
+    color: #074786;
+  }
+  .bestweb4 .ratings .p2 {
+    color: black;
+    margin-top: 10px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #074786;
+  }
+  
+  .bestweb4 .showmore {
+    position: relative;
+    color: #1b88f4;
+    bottom: 260px;
+    left: 280px;
+  }
+  
+  .bestweb4 .view {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #1b88f4;
+    width: 232px;
+    height: 48px;
+    bottom: 260px;
+    left: 680px;
+    border-radius: 12px;
+  }
+  
+  .bestweb5 {
+    position: relative;
+    top: 180px;
+    left: 510px;
+  }
+  
+  .builder1 {
+    position: relative;
+    top: 20px;
+    left: 100px;
+    color: #626e79;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .wixpro {
+    position: relative;
+    left: 280px;
+    bottom: 200px;
+    color: #626e79;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  
+  .Mainhighlights {
+    position: relative;
+    left: 280px;
+    bottom: 190px;
+    color: #2c384a;
+    font-family: "Inter", sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+  }
+  
+  .what {
+    list-style: none;
+    left: 280px;
+    position: relative;
+    bottom: 190px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    width: 505px;
+    background-color: #fff4ed;
+  }
+  
+  
+  .what  span{
+    background-color: white;
+    width: 
+    24px;
+  } 
+  
+  .what  span a{
+    color: #1B88F4;
+    text-decoration: none;
+  } 
+  
+  .bestweb5 .ratings {
+    position: relative;
+    bottom: 390px;
+    left: 800px;
+    width: 5%;
+    display: flex;
+    flex-direction: column;
+    color: #000;
+    background-color: #f3f9ff;
+  }
+  
+  .bestweb5 .ratings .p1 {
+    color: black;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 24px;
+    color: #074786;
+  }
+  .bestweb5 .ratings .p2 {
+    color: black;
+    margin-top: 10px;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #074786;
+  }
+  
+  .bestweb5 .showmore {
+    position: relative;
+    color: #1b88f4;
+    bottom: 260px;
+    left: 280px;
+  }
+  
+  .bestweb5 .view {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    background-color: #1b88f4;
+    width: 232px;
+    height: 48px;
+    bottom: 260px;
+    left: 680px;
+    border-radius: 12px;
+  }
+  
+  .bestweb5 .off {
+    position: relative;
+    bottom: 200px;
+    left: 280px;
+    background-color: #0746866f;
+    color: white;
+  }
+  

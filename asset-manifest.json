@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/radient/static/css/main.69025683.css",
+    "main.js": "/radient/static/js/main.eebf345e.js",
+    "index.html": "/radient/index.html",
+    "main.69025683.css.map": "/radient/static/css/main.69025683.css.map",
+    "main.eebf345e.js.map": "/radient/static/js/main.eebf345e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69025683.css",
+    "static/js/main.eebf345e.js"
+  ]
+}
